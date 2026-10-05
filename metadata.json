@@ -1,0 +1,6 @@
+{
+  "name": "SAFIRO GROUP - Concesionario & Taller Automotriz",
+  "description": "Sistema ERP integral para SAFIRO GROUP: gestión de citas, checklist digital de recepción vehicular 360° para autos, camionetas, furgones y camiones, diagnóstico técnico con vinculación a cotizaciones, almacén de repuestos y control de piso.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
